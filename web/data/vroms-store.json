@@ -1164,6 +1164,10 @@
     "id": "99695"
   },
   {
+    "rom_name": "Windows Preview Edition",
+    "rom_icon": "https:/upload.wikimedia.org/wikipedia/commons/8/80/Windows_P.R_booting.png"
+  },
+  {
     "rom_name": "Windows 1.01",
     "rom_icon": "https://upload.wikimedia.org/wikipedia/commons/8/80/Windows_1.01_booting.png",
     "rom_url": "https://www.mediafire.com/file/4sdhxfkxlj6w5o0/Windows1.0.ima/file",
